@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">higher_lower</string>
+    <string name="enter_your_guess">Enter your guess</string>
+</resources>
